@@ -16,3 +16,4 @@ Modern Shopify analytics dashboard built using Next.js and Tailwind CSS.
 - TypeScript
 
 ## Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-05-23 035721" src="https://github.com/user-attachments/assets/52b6799e-9afb-46eb-93d6-7f7a13b68039" />
